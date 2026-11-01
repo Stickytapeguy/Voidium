@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://voidium.projectvoid.dev/voidium.png" alt="Voidium Logo" width="128" />
+  <img src="https://voidium.projectvoid.dev/voidium.png" alt="Voidium Logo" width="512" />
 </div>
 # Voidium
 
