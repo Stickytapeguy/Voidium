@@ -1,6 +1,7 @@
 <div align="center">
   <img src="https://voidium.projectvoid.dev/voidium.png" alt="Voidium Logo" width=max />
 </div>
+
 # Voidium
 
 A simple, clean, and powerful coding language built on Rust.
