@@ -6,8 +6,6 @@
 
 A simple, clean, and powerful coding language built on Rust.
 
-A simple, clean, and powerful coding language built on Rust.
-
 ## Channels
 
 * **`stable`** — Main releases meant for normal use.
