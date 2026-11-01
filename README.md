@@ -1,8 +1,10 @@
-<div align="center">
-  <img src="https://voidium.projectvoid.dev/voidium.png" alt="Voidium Logo" width=max />
-</div>
+<p align="center">
+  <img src="https://voidium.projectvoid.dev/voidium.png" alt="Voidium" width=max"/>
+</p>
 
-# Voidium
+<h1>Voidium</h1>
+
+A simple, clean, and powerful coding language built on Rust.
 
 A simple, clean, and powerful coding language built on Rust.
 
